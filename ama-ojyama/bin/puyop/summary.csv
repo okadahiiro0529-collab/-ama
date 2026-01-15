@@ -1,0 +1,9 @@
+block_summary
+times, avg_score_block, avg_max_chain_block
+
+1 ~ 100, 2288.50, 1.87
+
+==================================================================================
+Summary generated_at, successes, attempts, errors, avg_total_score, avg_max_chain
+summary,"2026-01-05 22:49:09", 100, 135, 35, 2288.50, 1.87
+==================================================================================

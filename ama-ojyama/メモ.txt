@@ -1,0 +1,3 @@
+main.cpp
+80行　static void print_field_matrix　デバッグのためにいる。
+375行　print_field_matrix(field, "after_placement");　デバッグのためにいる
